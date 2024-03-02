@@ -29,7 +29,7 @@ export default {
 - Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
 
-## Udemy を利用したりして、React を再学習
+## Udemy を利用して、React を再学習
 
-- Udemy とかを利用して、React を再学習するために作成したリポジトリ
-- 過去に作成したものを使えばいい気もするけど、心機一転ということで・・・
+- [Udemy](https://www.udemy.com/course/modern_javascipt_react_beginner/?couponCode=KEEPLEARNING) を利用して、React を再学習するために作成したリポジトリ
+  - React の超基礎を、TODO アプリを作りながら復習
